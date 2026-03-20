@@ -1,2 +1,26 @@
+# Core Streamlit app
 streamlit
+
+# API client for Groq
 groq
+
+# LangChain ecosystem for RAG
+langchain
+langchain-community
+langchain-text-splitters
+langchain-groq
+langchain-core
+
+# Vector database
+chromadb
+
+# Embeddings model
+sentence-transformers
+
+# PDF processing
+pypdf
+
+# Additional utilities
+faiss-cpu
+numpy
+pandas
